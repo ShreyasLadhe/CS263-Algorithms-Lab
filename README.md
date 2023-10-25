@@ -5,4 +5,4 @@ All the Codes for the given questions are either in C or C++ progarmming languag
 
 My aim for this repository is solely for my reference and for people to learn the approach for the skill of problem solving. Please do not copy paste or use this as your answers to your assignments as it defeats the purpose of making this repository accessible.
 
-If you have any isssues in understanding the code the handwritten part includes my approach and geenral algorithm please refer to it
+If you have any isssues in understanding the code the handwritten part includes my approach and general algorithm please refer to it
